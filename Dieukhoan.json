@@ -1,0 +1,54 @@
+{
+    "app_name": "GymFitnessApp",
+    "version": "1.0",
+    "terms_and_conditions": {
+        "last_updated": "2023-11-28",
+        "content": [
+            "Bằng cách sử dụng GymFitnessApp, bạn đồng ý tuân theo các điều khoản và điều kiện sau đây.",
+            "1. Đăng ký thành viên: Để truy cập các tính năng cụ thể của ứng dụng, bạn có thể cần đăng ký một tài khoản.",
+            "2. Nội quy ứng xử: Người dùng phải tuân thủ một nội quy ứng xử tôn trọng và hỗ trợ khi sử dụng ứng dụng.",
+            "3. Thanh toán: Thanh toán cho các tính năng cao cấp là bắt buộc và không thể hoàn lại.",
+            "4. Hướng dẫn sử dụng: Người dùng được mong đợi sử dụng ứng dụng chỉ cho mục đích tập luyện và không được sử dụng cho bất kỳ hoạt động bất hợp pháp nào.",
+            "5. Chính sách bảo mật: Chính sách bảo mật của chúng tôi quy định việc sử dụng thông tin cá nhân của bạn.",
+            "6. Miễn trách nhiệm: GymFitnessApp không chịu trách nhiệm về bất kỳ chấn thương hoặc vấn đề sức khỏe nào phát sinh từ việc sử dụng ứng dụng.",
+            "7. Chấm dứt: Chúng tôi giữ quyền chấm dứt hoặc đình chỉ tài khoản của bạn nếu vi phạm các điều khoản sử dụng.",
+            "8. Liên hệ: Đối với câu hỏi hoặc lo ngại, vui lòng liên hệ với chúng tôi qua địa chỉ email support@gymfitnessapp.com."
+        ]
+    },
+    "privacy_policy": {
+        "last_updated": "2023-11-28",
+        "content": [
+            "Chính sách bảo mật của chúng tôi mô tả cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn.",
+            "1. Thông tin được thu thập: Chúng tôi thu thập thông tin như tên, email và dữ liệu tập luyện của bạn.",
+            "2. Sử dụng thông tin: Thông tin thu thập được sử dụng để cải thiện các tính năng của ứng dụng và cung cấp trải nghiệm cá nhân hóa.",
+            "3. Bảo mật: Chúng tôi thực hiện các biện pháp để bảo vệ dữ liệu của bạn, nhưng không có phương pháp truyền thông qua internet nào là hoàn toàn an toàn.",
+            "4. Dịch vụ của bên thứ ba: Một số tính năng có thể phụ thuộc vào các dịch vụ của bên thứ ba và có thể áp dụng chính sách bảo mật của họ.",
+            "5. Thay đổi chính sách bảo mật: Mọi thay đổi đối với chính sách bảo mật sẽ được thông báo cho người dùng.",
+            "6. Sự đồng ý: Bằng cách sử dụng ứng dụng, bạn đồng ý với các điều khoản được mô tả trong chính sách bảo mật."
+        ]
+    },
+    "cookie_policy": {
+        "last_updated": "2023-11-28",
+        "content": [
+            "Chính sách cookie của chúng tôi mô tả cách chúng tôi sử dụng cookie và công nghệ tương tự khác.",
+            "1. Cookie: Chúng tôi sử dụng cookie để cung cấp trải nghiệm tốt hơn cho người dùng và theo dõi hoạt động trên trang web.",
+            "2. Quản lý Cookie: Bạn có thể quản lý cài đặt cookie và tuỳ chọn theo dõi từ trình duyệt của mình."
+        ]
+    },
+    "third_party_terms": {
+        "last_updated": "2023-11-28",
+        "content": [
+            "Chúng tôi có thể sử dụng dịch vụ của bên thứ ba, và các điều khoản của họ có thể áp dụng trong một số trường hợp.",
+            "1. Dịch vụ Bên Thứ Ba: Một số tính năng của ứng dụng có thể sử dụng dịch vụ của bên thứ ba.",
+            "2. Chính Sách của Bên Thứ Ba: Chính sách và điều khoản của bên thứ ba có thể áp dụng khi bạn sử dụng các dịch vụ của họ."
+        ]
+    },
+    "account_information_update": {
+        "last_updated": "2023-11-28",
+        "content": [
+            "Người dùng có trách nhiệm cập nhật thông tin tài khoản để đảm bảo thông tin chính xác.",
+            "1. Cập Nhật Thông Tin: Bạn cần cập nhật thông tin cá nhân và liên hệ của mình nếu có thay đổi.",
+            "2. Bảo mật Tài Khoản: Bảo mật tài khoản là trách nhiệm của người dùng và nên bao gồm mật khẩu mạnh và an toàn."
+        ]
+    }
+}
